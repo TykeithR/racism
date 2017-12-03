@@ -1,0 +1,10 @@
+body {
+  background: url("https://cdn.glitch.com/ec4ee66e-5e3a-4029-8a41-d96954a90f74%2FBlackface-1280x720.jpg?1511117691987") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-transform: uppercase;
+  font-family: 'Vollkorn SC', serif;
+
+}
